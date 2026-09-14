@@ -1,0 +1,4 @@
+Class : dog
+attributes are name and age, which are Axel and 9
+define allows me to set what his name is and age
+def_ init_ (attributes here.)
